@@ -2,7 +2,7 @@
 多通道信息在成像重建和视觉显示中的应用
 
 ## Learning from DAE to DSM
- <div align="center"><img src="https://github.com/yqx7150/Multi-channel-deep-learning/blob/main/1666443591498.png" width = "1200" height = "800">  </div>
+ <div align="center"><img src="https://github.com/yqx7150/Multi-channel-deep-learning/blob/main/1666443591498.png" width = "1300" height = "800">  </div>
 
 ## Learning from DAE to DSM
  <div align="center"><img src="https://github.com/yqx7150/Multi-channel-deep-learning/blob/main/1666445214426.png" width = "800" height = "500">  </div>
