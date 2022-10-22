@@ -1,7 +1,7 @@
 # Multi-channel-deep-learning
 多通道信息在成像重建和视觉显示中的应用
 
-## Learning from DAE to DSM
+## 多通道的思想被广泛应用于各种成像系统设计及图像视觉算法中。如我们今天所熟知的相控阵雷达、合成孔径成像、核磁共振-并行成像、多层螺旋CT、多摄像头智能手机中都广泛地配置或设置了多通道的设计。
  <div align="center"><img src="https://github.com/yqx7150/Multi-channel-deep-learning/blob/main/1666443591498.png" width = "1300" height = "800">  </div>
 
 ## Learning from DAE to DSM
