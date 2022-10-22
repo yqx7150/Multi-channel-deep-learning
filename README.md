@@ -7,7 +7,8 @@
 
  <div align="center"><img src="https://github.com/yqx7150/Multi-channel-deep-learning/blob/main/1666443591498.png" width = "1300" height = "800">  </div>
 
-## Learning from DAE to DSM
+# 多通道先验信息无监督学习用于成像重建和图像恢复
+## 直觉感官和通常的系统设计经验告诉我们，多通道数据所蕴含的信息往往更加丰富。根据这一准则，我们可以利用目前的一些无监督学习工具，先通过无监督学习将更多通道的数据的先验信息“学习好”。然后，利用更多通道数据与待处理数据的关系，设计算法将“学习好”的先验信息用于我们待处理数据的任务中。目前我们先后使用去噪自编码、扩散生成模型等工具实现这一理念，在磁共振快速成像重建、CT低剂量成像重建、灰度图像恢复等应用中均取得较为出色的效果。
  <div align="center"><img src="https://github.com/yqx7150/Multi-channel-deep-learning/blob/main/1666445214426.png" width = "1300" height = "800">  </div>
 
   * Highly Undersampled Magnetic Resonance Imaging Reconstruction using Autoencoding Priors  
@@ -19,5 +20,6 @@
   * Denoising Auto-encoding Priors in Undecimated Wavelet Domain for MR Image Reconstruction  
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S0925231221000990) [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1909/1909.01108.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/WDAEPRec)
 
-## Learning from DAE to DSM
+# 多通道数据转换以实现信息增强或存储减少
+## 我们在
  <div align="center"><img src="https://github.com/yqx7150/Multi-channel-deep-learning/blob/main/1666445236837.png" width = "1300" height = "800">  </div>
