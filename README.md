@@ -27,6 +27,9 @@
   * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9703672)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)
 
+  * Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782831)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MEDAEP)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)  [<font size=5>**[数学图像联盟会议交流PPT]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
+
 # 多通道数据转换以实现信息增强或存储减少
 ## 通过深度学习等工具，除了可以利用现有的多通道信息外，我们还可以通过深度学习等工具来实现多通道数据先验信息的增强或者多通道数据的通道压缩，达到信息的更高精度获取或者更好更便捷传输。
 ## 通过可逆网络等工具和变量增加等网络设计改进，我们先后在图像域的多通道数据以及k域多通道数据等数据形式上分别实现了多通道数据先验信息的可逆增强和多通道数据的通道可逆压缩。
